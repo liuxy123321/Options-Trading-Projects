@@ -52,7 +52,7 @@ Each week is structured around specific chapters from the book:
 
 | **Week** | **Chapters Covered** | **Focus Area** | **Key Concepts** |
 |-----------|----------------------|----------------|------------------|
-| 1 | Chapter 1: Financial Contracts | Payoff Visualizer | Understanding Derivatives |
+| 1 | Chapter 1: Financial Contracts | Margin Visualisation + Futures Settlement | Understanding Derivatives |
 | 2 | Chapter 2: Forward Pricing | Forward Pricing Calculator | Arbitrage and Futures Pricing |
 | 3 | Chapter 3: Contract Specifications and Option Terminology | Options Terminology Simulator | Greeks Basics |
 | 4 | Chapters 4–5: Expiration P&L, Theoretical Pricing Models | P&L Simulator + Black-Scholes | Pricing Logic + P&L Analysis |
