@@ -1,7 +1,7 @@
 # Options Trading Project
 
 ## 📌 Overview
-This project is structured to align with the 16-week roadmap based on *Option Volatility and Pricing* by Sheldon Natenberg. The goal is to build an in-depth understanding of options trading, volatility analysis, and risk management through practical coding projects and conceptual learning. This repository is also intended to serve as a showcase for any companies I am applying to for a Quantitative role, including hedge funds, HFTs, and proprietary trading firms, as applications open in August 2025.
+This project is structured to align with the 16-week roadmap based on *Option Volatility and Pricing* by Sheldon Natenberg. The goal is to build an in-depth understanding of options trading, volatility analysis, and risk management through practical coding projects and conceptual learning. This repository is also intended to serve as a showcase for any companies I am applying to for a Quantitative role, including hedge funds, HFTs, and proprietary trading firms.
 
 ---
 
