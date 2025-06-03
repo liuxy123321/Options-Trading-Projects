@@ -29,18 +29,13 @@ Options_Trading_Project/
 │   └── Chapter_25_Volatility_Contracts.ipynb
 │
 ├── scripts/                   # Utility scripts (e.g., scrapers, data loaders)
-│   ├── data_loader.py
-│   ├── options_scraper.py
-│   └── vol_arbitrage_sim.py
+│   
 │
 ├── data/                      # Market data, CSVs, historical options data
-│   ├── SPY_Options_2025.csv
-│   └── Historical_Options_Data.csv
+│ 
 │
 ├── images/                    # Graphs, IV surfaces, payoff visuals
-│   ├── delta_hedge_visual.png
-│   ├── gamma_risk_plot.png
-│   └── volatility_smile.png
+│
 │
 └── README.md
 ```
