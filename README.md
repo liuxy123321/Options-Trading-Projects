@@ -50,7 +50,7 @@ Each week is structured around specific chapters from the book:
 | 1 | Chapter 1: Financial Contracts | Margin Visualisation + Futures Settlement | Understanding Derivatives |
 | 2 | Chapter 2: Forward Pricing | Forward Pricing Calculator | Arbitrage and Futures Pricing |
 | 3 | Chapter 3: Contract Specifications and Option Terminology | Exercise & Assignment Outcome Simulator | Option Exercise and Assignment |
-| 4 | Chapters 4–5: Expiration P&L, Theoretical Pricing Models | P&L Simulator + Black-Scholes | Pricing Logic + P&L Analysis |
+| 4 | Chapters 4–5: Expiration P&L, Theoretical Pricing Models | P&L Simulator + Theoretical Pricing Simulator | Pricing Logic + P&L Analysis |
 | 5 | Chapter 6: Volatility | Volatility Surface Plotter | Volatility Risk and Metrics |
 | 6 | Chapters 7–8: Risk Measurement I + Dynamic Hedging | Risk Measurement Visualizer | Portfolio Hedging Concepts |
 | 7 | Chapter 9: Risk Measurement II | Multi-Greek Analyzer | Sensitivity Analysis |
